@@ -1,5 +1,6 @@
+require "net/http"
+require "baiduzhanzhang/push_url"
 require "baiduzhanzhang/version"
 
 module Baiduzhanzhang
-  # Your code goes here...
 end
